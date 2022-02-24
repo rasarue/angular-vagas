@@ -1,6 +1,7 @@
 .lista-vagas {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .lista-vagas .card {
